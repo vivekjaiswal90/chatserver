@@ -1,0 +1,3 @@
+how to run:
+1. Start ChatServer.java program on command prompt.
+2. Now start Andychat on android emulator
